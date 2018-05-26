@@ -5,3 +5,5 @@ My ongoing solutions to Bill Tuckman and Angel Serrat's 'Fixed Income Securities
 ### Solutions Available
 
 * Chapter 1: Prices, Discount Factors and Arbitrage
+
+* Chapter 2: Spot, Forward and Par Rates
