@@ -1,6 +1,6 @@
 # Fixed Income Securities: Tools for Today's Markets by Tuckman and Serrat - Solutions
 
-My ongoing solutions to Bill Tuckman and Angel Serrat's 'Fixed Income Securities' end-of-chapter problems.
+My ongoing solutions to Bill Tuckman and Angel Serrat's 'Fixed Income Securities' end-of-chapter problems. (Third Edition.)
 
 ### Solutions Available
 
