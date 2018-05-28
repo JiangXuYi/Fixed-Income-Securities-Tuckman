@@ -7,3 +7,5 @@ My ongoing solutions to Bill Tuckman and Angel Serrat's 'Fixed Income Securities
 * Chapter 1: Prices, Discount Factors and Arbitrage
 
 * Chapter 2: Spot, Forward and Par Rates
+
+* Chapter 3: Returns, Spreads and Yields
