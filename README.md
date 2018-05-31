@@ -9,3 +9,5 @@ My ongoing solutions to Bill Tuckman and Angel Serrat's 'Fixed Income Securities
 * Chapter 2: Spot, Forward and Par Rates
 
 * Chapter 3: Returns, Spreads and Yields
+
+* Chapter 4: One-Facter Risk Metrics and Hedges
