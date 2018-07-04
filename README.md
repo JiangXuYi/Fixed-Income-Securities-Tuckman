@@ -11,3 +11,5 @@ My ongoing solutions to Bill Tuckman and Angel Serrat's 'Fixed Income Securities
 * Chapter 3: Returns, Spreads and Yields
 
 * Chapter 4: One-Facter Risk Metrics and Hedges
+
+* Chapter 5: Multi-Factor Risk Metrics and Hedges
