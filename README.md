@@ -12,7 +12,7 @@ My ongoing solutions to Bill Tuckman and Angel Serrat's 'Fixed Income Securities
 
   * Chapter 3: Returns, Spreads and Yields
 
-* Part 2: Measure of Interest Rate Risk and Hedging
+* Part 2: Measures of Interest Rate Risk and Hedging
 
   * Chapter 4: One-Facter Risk Metrics and Hedges
 
