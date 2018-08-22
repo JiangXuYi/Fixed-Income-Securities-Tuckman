@@ -18,4 +18,4 @@ My ongoing solutions to Bill Tuckman and Angel Serrat's 'Fixed Income Securities
 
   * Chapter 5: Multi-Factor Risk Metrics and Hedges
 
-  * Chapter 6: Empirical Approaches to Risk Metrics and Hedginf
+  * Chapter 6: Empirical Approaches to Risk Metrics and Hedging
